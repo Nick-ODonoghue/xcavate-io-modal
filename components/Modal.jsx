@@ -79,7 +79,7 @@ export default function Modal({ isOpen, isClosed }) {
                 <span className=" text-[14px] opacity-50">#12345678</span>
               </div>
               <div className=" bg-[#EFEFEF] w-[134px] place-self-center rounded-md flex flex-col gap-3 pb-2 mt-4">
-                <Image src="/../public/Rectangle 154.png" width={134} height={116} />
+                <Image src="/../public/Rectangle 154.png" width={134} height={116} alt="Holiday home" />
                 <span className=" text-[12px] font-semibold opacity-50">001/100</span>
               </div>
               <div className=" flex grow justify-center pb-4">
