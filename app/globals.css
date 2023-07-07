@@ -1,3 +1,20 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@font-face {
+  font-family: "GraphikRegular";
+  src: url("../public/fonts/GraphikRegular.otf");
+}
+@font-face {
+  font-family: "GraphikMedium";
+  src: url("../public/fonts/GraphikMedium.otf");
+}
+@font-face {
+  font-family: "GraphikSemibold";
+  src: url("../public/fonts/GraphikSemibold.otf");
+}
+@font-face {
+  font-family: "GraphikBold";
+  src: url("../public/fonts/GraphikBold.otf");
+}
